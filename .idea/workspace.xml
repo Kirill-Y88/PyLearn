@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="23864827-9797-4e29-9df4-d2f87fcf507a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ce4kRLu9O5xWAI9KYPkIOuRrlg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.33101190-ex-pandas-excel.executor": "Debug",
+    "Python.33101198-ex-graphs.executor": "Debug",
+    "Python.33101210-ex-LP-ortools.executor": "Run",
+    "Python.33101214-ex-LP-scip.executor": "Run",
+    "Python.33101230-ex-LP-pyomo.executor": "Run",
+    "Python.33101274-ex-pyomo-array-sum.executor": "Run",
+    "Python.33101318-ex-MILP-pyomo.executor": "Run",
+    "Python.33101326-ex-MILP-ortools.executor": "Run",
+    "Python.33101328-ex-MILP-scip.executor": "Run",
+    "Python.33101334-ex-MILP-exercise.executor": "Run",
+    "Python.33101338-ex-NLP-pyomo.executor": "Run",
+    "Python.33101342-ex-NLP-scip.executor": "Run",
+    "Python.33101360-ex-GA.executor": "Run",
+    "Python.33101362-ex-PSO.executor": "Run",
+    "Python.33101364-ex-CP-ortools.executor": "Run",
+    "Python.36020614-ex1-investiment.executor": "Run",
+    "Python.36020614-ex1-investiment_copy.executor": "Run",
+    "Python.36020624-ex3-cost-of-production.executor": "Run",
+    "Python.36020632-ex3-cost-of-production-with-binary.executor": "Run",
+    "Python.36020638-ex5-construction.executor": "Run",
+    "Python.36020640-ex6-construction-binary.executor": "Run",
+    "Python.36020644-ex7-jobs.executor": "Run",
+    "Python.36020670-ex4-route.executor": "Run",
+    "Python.Classification.executor": "Run",
+    "Python.Regress.executor": "Debug",
+    "Python._optional.executor": "Debug",
+    "Python.test.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\Step\pythonProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23864827-9797-4e29-9df4-d2f87fcf507a" name="Changes" comment="" />
+      <created>1708458852967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708458852967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Scripts/OptimizationLP/03/33101190-ex-pandas-excel.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Scripts/OptimizationLP/03/33101198-ex-graphs.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Scripts/SML/ML1/01/Regress.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/.venv/Scripts/SML/ML1/01/Classification.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
