@@ -29,7 +29,7 @@ clust = KMeans(n_clusters=3).fit(X)
 # смотрим центры кластеров
 [c1, c2, c3] = clust.cluster_centers_
 
-clust.cluster_centers_
+print(clust.cluster_centers_)
 
 fig = plt.figure(figsize=(10, 10))  # создаем картинку
 
