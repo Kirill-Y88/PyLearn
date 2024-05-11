@@ -24,6 +24,7 @@ print(mul.det())
 # формула   псевдообратной матрицы, для неквадратных матриц
 X_pseudo_inverse = (X.T * X)**(-1) * X.T
 
+#  решение уравнение через псевдообратную марицу
 best_point = X_pseudo_inverse * b
 
 x, y, z = symbols('x, y, z')
